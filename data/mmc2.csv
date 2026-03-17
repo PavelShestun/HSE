@@ -1,0 +1,151 @@
+attribute,Log2_CDS/downstream,description,KO_effect,First_Last500CDS
+gene=yfjW;locus_tag=b2642',-1.25102,"polypeptide 
+CP4-57 prophage; uncharacterized protein YfjW",likely H-NS peak effect,first
+gene=yhbX;locus_tag=b3173',-1.16015,"polypeptide 
+putative hydrolase, inner membrane",likely H-NS peak effect,first
+gene=ytfI;locus_tag=b4215',-1.10564,"polypeptide 
+protein YtfI",likely H-NS peak effect,first
+gene=yjbM;locus_tag=b4048',-0.93878,"polypeptide 
+uncharacterized protein YjbM",likely H-NS peak effect,first
+gene=ykgH;locus_tag=b0310',-0.92738,"polypeptide 
+uncharacterized protein YkgH",likely H-NS peak effect,first
+gene=gtrS;locus_tag=b2352',-0.92345,"polypeptide 
+CPS-53 (KpLE1) prophage; serotype specific glucosyl transferase",potential KO effect,first
+gene=gpp;locus_tag=b3779',-0.84914,"polypeptideguanosine-5'-triphosphate,3'-diphosphate phosphatase",likely a result of rep KO effect,first
+gene=ecpR;locus_tag=b0294',-0.79242,"polypeptide
+DNA-binding transcriptional dual regulator MatA",likely H-NS peak effect,first
+gene=cadA;locus_tag=b4131',-0.78286,"enzyme
+lysine decarboxylase 1",likely H-NS peak effect,first
+gene=yjcF;locus_tag=b4066',-0.76635,"polypeptide
+pentapeptide repeat-containing protein YjcF",likely H-NS peak effect,first
+gene=yhiJ;locus_tag=b3488',-0.76068,,,first
+gene=fre;locus_tag=b3844',-0.75215,,,first
+gene=yieP;locus_tag=b3755',-0.72588,,,first
+gene=yhhI;locus_tag=b3484',-0.71211,,,first
+gene=gadE;locus_tag=b3512',-0.6932,,,first
+gene=yahA;locus_tag=b0315',-0.69251,,,first
+gene=yahL;locus_tag=b0326',-0.68824,,,first
+gene=yraI;locus_tag=b3143',-0.666,,,first
+gene=yibB;locus_tag=b3618',-0.65382,,,first
+gene=yjeJ;locus_tag=b4145',-0.62639,,,first
+gene=yhbU;locus_tag=b3158',-0.6222,,,first
+gene=yehA;locus_tag=b2108',-0.61845,,,first
+gene=nikC;locus_tag=b3478',-0.60469,,,first
+gene=ghxP;locus_tag=b4064',-0.60165,,,first
+gene=wbbK;locus_tag=b2032',-0.59164,,,first
+gene=idnT;locus_tag=b4265',-0.58588,,,first
+gene=yjhC;locus_tag=b4280',-0.5857,,,first
+gene=yiaY;locus_tag=b3589',-0.56922,,,first
+gene=ulaA;locus_tag=b4193',-0.56887,,,first
+gene=yjgM;locus_tag=b4256',-0.56332,,,first
+,,,,
+gene=gtrB;locus_tag=b2351',0.519804,,,first
+gene=yhgF;locus_tag=b3407',0.530475,,,first
+gene=aldB;locus_tag=b3588',0.539226,,,first
+gene=yiiD;locus_tag=b3888',0.54029,,,first
+gene=kbaY;locus_tag=b3137',0.543319,,,first
+gene=ompT;locus_tag=b0565',0.547559,,,first
+gene=tamB;locus_tag=b4221',0.552223,,,first
+gene=rhlB;locus_tag=b3780',0.552568,,,first
+gene=ahr;locus_tag=b4269',0.558281,,,first
+gene=caiE;locus_tag=b0035',0.563497,,,first
+gene=fdhD;locus_tag=b3895',0.570961,,,first
+gene=cbrA;locus_tag=b3690',0.582135,,,first
+gene=yihV;locus_tag=b3883',0.592342,,,first
+gene=yafT;locus_tag=b0217',0.595288,,,first
+gene=sfmF;locus_tag=b0534',0.595612,,,first
+gene=mrcA;locus_tag=b3396',0.597717,,,first
+gene=yqeG;locus_tag=b2845',0.598361,,,first
+gene=livM;locus_tag=b3456',0.600573,,,first
+gene=nirC;locus_tag=b3367',0.609269,,,first
+gene=sanA;locus_tag=b2144',0.614835,,,first
+gene=gntX;locus_tag=b3413',0.616553,,,first
+gene=fieF;locus_tag=b3915',0.651694,,,first
+gene=yjbB;locus_tag=b4020',0.667814,,,first
+gene=wbbJ;locus_tag=b2033',0.676573,,,first
+gene=dinF;locus_tag=b4044',0.726242,,,first
+gene=cysQ;locus_tag=b4214',0.755368,,,first
+gene=alsR;locus_tag=b4089',0.766834,"polypeptide
+DNA-binding transcriptional repressor AlsR",likely H-NS peak effect,first
+gene=dtpC;locus_tag=b4130',0.830498,"transporter 
+dipeptide/tripeptide:H+ symporter DtpC",potential KO effect,first
+gene=rarD;locus_tag=b3819',0.889662,"polypeptide 
+putative drug/metabolite transporter superfamily transporter RarD",likely H-NS peak effect,first
+gene=ytfJ;locus_tag=b4216',1.120665,"polypeptide 
+protein YtfJ",likely H-NS peak effect,first
+gene=bioH;locus_tag=b3412',-1.2629,"enzyme 
+pimeloyl-acyl carrier protein methyl ester esterase",likely KO effect,last
+gene=yfjW;locus_tag=b2642',-1.22313,"polypeptide 
+CP4-57 prophage; uncharacterized protein YfjW",likely H-NS peak effect,last
+gene=yjbM;locus_tag=b4048',-1.01138,"polypeptide 
+uncharacterized protein YjbM",likely H-NS peak effect,last
+gene=gpp;locus_tag=b3779',-0.96875,"polypeptide guanosine-5'-triphosphate,3'-diphosphate phosphatase","likely a result of rep KO effect, not gpp",last
+gene=ftsN;locus_tag=b3933',-0.83575,"polypeptide
+cell division protein FtsN",likely KO effect,last
+gene=yhbX;locus_tag=b3173',-0.82512,"polypeptide
+putative hydrolase, inner membrane",likely H-NS peak effect,last
+gene=ytfI;locus_tag=b4215',-0.81285,"polypeptide
+putative inner membrane protein",likely H-NS peak effect,last
+gene=ykgH;locus_tag=b0310',-0.77993,"polypeptide
+uncharacterized protein YkgH",likely H-NS peak effect,last
+gene=cueO;locus_tag=b0123',-0.75704,,,last
+gene=yhjE;locus_tag=b3523',-0.74334,,,last
+gene=ecpR;locus_tag=b0294',-0.71119,,,last
+gene=rlmJ;locus_tag=b3499',-0.69751,,,last
+gene=endA;locus_tag=b2945',-0.67367,,,last
+gene=dppD;locus_tag=b3541',-0.66596,,,last
+gene=yqhD;locus_tag=b3011',-0.64658,,,last
+gene=rfbD;locus_tag=b2040',-0.63036,,,last
+gene=gadE;locus_tag=b3512',-0.62867,,,last
+gene=yiaY;locus_tag=b3589',-0.62524,,,last
+gene=gtrS;locus_tag=b2352',-0.61712,,,last
+gene=sfmZ;locus_tag=b0535',-0.59561,,,last
+gene=malQ;locus_tag=b3416',-0.57939,,,last
+gene=pitA;locus_tag=b3493',-0.57458,,,last
+gene=yjeJ;locus_tag=b4145',-0.5719,,,last
+gene=yjgM;locus_tag=b4256',-0.56837,,,last
+gene=yahL;locus_tag=b0326',-0.54068,,,last
+gene=livH;locus_tag=b3457',-0.52489,,,last
+gene=yqjA;locus_tag=b3095',-0.51661,,,last
+gene=yijF;locus_tag=b3944',-0.51417,,,last
+gene=allC;locus_tag=b0516',-0.51017,,,last
+gene=nirB;locus_tag=b3365',-0.50859,,,last
+,,,,
+gene=kup;locus_tag=b3747',0.549129,,,last
+gene=sanA;locus_tag=b2144',0.549203,,,last
+gene=nanK;locus_tag=b3222',0.551469,,,last
+gene=carB;locus_tag=b0033',0.554701,,,last
+gene=mlaA;locus_tag=b2346',0.561287,,,last
+gene=caiE;locus_tag=b0035',0.563497,,,last
+gene=ytfB;locus_tag=b4206',0.575403,,,last
+gene=xapB;locus_tag=b2406',0.575967,,,last
+gene=csgD;locus_tag=b1040',0.579298,,,last
+gene=yiaO;locus_tag=b3579',0.5893,,,last
+gene=sfmF;locus_tag=b0534',0.595612,,,last
+gene=mglB;locus_tag=b2150',0.597091,,,last
+gene=dtpC;locus_tag=b4130',0.606423,,,last
+gene=wbbJ;locus_tag=b2033',0.62241,,,last
+gene=yahK;locus_tag=b0325',0.62408,,,last
+gene=yehB;locus_tag=b2109',0.630051,,,last
+gene=dsbG;locus_tag=b0604',0.631802,,,last
+gene=yhdE;locus_tag=b3248',0.655328,,,last
+gene=ybhL;locus_tag=b0786',0.664596,,,last
+gene=gntX;locus_tag=b3413',0.71075,,,last
+gene=cysQ;locus_tag=b4214',0.744324,,,last
+gene=arcB;locus_tag=b3210',0.751375,,,last
+gene=fadL;locus_tag=b2344',0.765002,"transporter
+long-chain fatty acid outer membrane channel / bacteriophage T2 receptor",likely H-NS peak effect,last
+gene=pgaA;locus_tag=b1024',0.783476,"transporter
+partially deacetylated poly-β-1,6-N-acetyl-D-glucosamine outer membrane porin",likely H-NS peak effect,last
+gene=argG;locus_tag=b3172',0.815962,"enzyme
+argininosuccinate synthetase",likely H-NS peak effect,last
+gene=ytfJ;locus_tag=b4216',0.836224,"polypeptide
+protein YtfJ",likely H-NS peak effect,last
+gene=entF;locus_tag=b0586',0.889893,"polypeptide 
+apo-serine activating enzyme",likely H-NS peak effect,last
+gene=rep;locus_tag=b3778',0.92391,"enzyme 
+ATP-dependent DNA helicase Rep",likely KO effect,last
+gene=yhjG;locus_tag=b3524',0.927859,"polypeptide 
+AsmA family protein YhjG","potential KO effect. However, not apparent across 5' end of CDS",last
+gene=solA;locus_tag=b1059',1.101568,"enzyme 
+N-methyl-L-tryptophan oxidase",likely H-NS peak effect,last
